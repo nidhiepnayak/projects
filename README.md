@@ -1,6 +1,7 @@
 # Nidhie's Projects
 
-A collection of projects I'm building while learning backend development, cloud, and AI/ML.
+A collection of projects I'm building while learning 
+software development, cloud, and AI/ML.
 
 ## About Me
 - 7th semester CS student
